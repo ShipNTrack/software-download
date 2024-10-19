@@ -1,1 +1,1 @@
-Installation file for Ship&Track
+Download Setup.exe file to install Ship&Track
