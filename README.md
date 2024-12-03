@@ -5,4 +5,4 @@ Print shipping labels from your desktop and easily track all packages in one sim
 
 Visit https://ship-track.com for more info.
 
-*Minor bug fix 12/02/2024
+*12/02/2024: Minor bug fix
