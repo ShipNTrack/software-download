@@ -4,3 +4,5 @@ Ship&Track is a must-have tool for anyone who require the most cost-effective wa
 Print shipping labels from your desktop and easily track all packages in one simple interface
 
 Visit https://ship-track.com for more info.
+
+*Minor bug fix 12/02/2024
